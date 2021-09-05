@@ -4,7 +4,7 @@
 
 ##  Android Native Developer | Mobile UI/UX Designer
 
-<br> <br>
+<br>
 ###  Tech I Use
 
 <br> 
