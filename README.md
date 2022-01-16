@@ -7,9 +7,9 @@
 <br>
 
  <img  class="img" src="https://github-readme-stats.vercel.app/api?username=DrHistory&show_icons=true&theme=radical"  align="left" />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrHistory&layout=compact&theme=radical" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrHistory&layout=compact&theme=radical" align="right" />
 
-<br>
+<br> <br> <br> 
 
 ###  Tech I Use
 
