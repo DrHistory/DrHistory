@@ -1,4 +1,3 @@
-<img src="https://media.giphy.com/media/3oEjI1erPMTMBFmNHi/giphy.gif?cid=ecf05e47kh5ke7pr56n4jb6452u71bvrjsuvjpuzs80b251h&rid=giphy.gif&ct=g" align="right" width="400" height="250">
 
 ### Hi there 👋 I'm Kürşat
 
