@@ -11,10 +11,10 @@
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kursatkumsuz&layout=compact&theme=radical"  />
    </p>
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=CeliktepeMurat&label=Views&color=lightgrey&style=flat-square" alt="CeliktepeMurat" /> 
+<img src="https://komarev.com/ghpvc/?username=CeliktepeMurat&label=Views&color=lightgrey&style=flat-square" alt="kursatkumsuz" /> 
 </p>
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=CeliktepeMurat&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=radical&no-bg=true&no-frame=true&column=4" alt="CeliktepeMurat" />
+<img src="https://github-profile-trophy.vercel.app/?username=CeliktepeMurat&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=radical&no-bg=true&no-frame=true&column=4" alt="kursatkumsuz" />
 </p>
 ###  Tech I Use
 
