@@ -10,7 +10,12 @@
 <p align="center">
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kursatkumsuz&layout=compact&theme=radical"  />
    </p>
-
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=CeliktepeMurat&label=Views&color=lightgrey&style=flat-square" alt="CeliktepeMurat" /> 
+</p>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=CeliktepeMurat&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=radical&no-bg=true&no-frame=true&column=4" alt="CeliktepeMurat" />
+</p>
 ###  Tech I Use
 
 <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" width = "25" height = "25">
