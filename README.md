@@ -12,13 +12,6 @@
  </p>
    
    
-   
-<p align="center">
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?kursatkumsuz=ryo-ma&title=Stars,Followers
-" alt="kursatkumsuz" />
-</p>
-
 
 ##  Tech I Use
 
