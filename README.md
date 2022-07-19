@@ -15,7 +15,7 @@
    
 <p align="center">
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=kursatkumsuz&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=radical&no-bg=true&no-frame=true&column=5" alt="kursatkumsuz" />
+<img src="https://github-profile-trophy.vercel.app/?username=kursatkumsuz&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=radical&no-bg=true&no-frame=true&column=4" alt="kursatkumsuz" />
 </p>
 
 
