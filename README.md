@@ -16,7 +16,7 @@
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=kursatkumsuz&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=radical&no-bg=true&no-frame=true&column=4" alt="kursatkumsuz" />
 </p>
-###  Tech I Use
+##  Tech I Use
 
 <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" width = "25" height = "25">
 <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" width = "25" height = "25">
