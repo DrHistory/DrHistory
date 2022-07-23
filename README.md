@@ -1,6 +1,6 @@
 
 <h1 align ="middle">Hi there 👋 I'm Kürşat</h1>
-<p> Android Native Developer | Mobile UI Designer</p>
+<p> Kotlin and UI Design Enthusiast </p>
 <br>
 
 <div style = "display: flex: flex-direction: row; justify-content: space-between"> 
