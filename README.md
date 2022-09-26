@@ -23,6 +23,9 @@
 
 [<img src = "https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width = "220" height = "90" >](https://play.google.com/store/apps/developer?id=K%C3%BCr%C5%9Fat+Kumsuz)
 
+# Medium
+
+[<img src = "https://user-images.githubusercontent.com/36799589/96227773-3acc6080-0fb2-11eb-837f-f5026d472969.jpg" width = "100" height = "60" >](https://medium.com/@kursatkmsz)
 
 #  Contact Me
 
