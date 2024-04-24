@@ -19,26 +19,33 @@
 
 
 
-# My Apps in the store
+## My Apps in the store
 
-[<img src = "https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width = "220" height = "90" >](https://play.google.com/store/apps/developer?id=K%C3%BCr%C5%9Fat+Kumsuz)
+[<img src = "https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width = "170" height = "70" >](https://play.google.com/store/apps/developer?id=K%C3%BCr%C5%9Fat+Kumsuz)
 
-# Medium
+## Medium
 
-[<img src = "https://user-images.githubusercontent.com/36799589/96227773-3acc6080-0fb2-11eb-837f-f5026d472969.jpg" width = "100" height = "60" >](https://medium.com/@kursatkumsuz)
+[<img src = "https://user-images.githubusercontent.com/36799589/96227773-3acc6080-0fb2-11eb-837f-f5026d472969.jpg" width = "90" height = "40" >](https://medium.com/@kursatkumsuz)
 
-#  Contact Me
+## Contact Me
 
-[<img src = "https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" width = "60" height = "60" align="left">](https://www.instagram.com/coding.kursat)
+<p align="center">
+  <a href="mailto:kursatkumsuz@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/coding.kursat/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/kursatkumsuz/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 
-[<img src = "https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" width = "60" height = "60" align="center" >](https://www.linkedin.com/in/k%C3%BCr%C5%9Fat-kumsuz-301588228/)
 
-##  Tech I Use
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kursatkumsuz" alt="Parply" />
+    <a href="https://github.com/kursatkumsuz/"><img src="https://img.shields.io/github/followers/kursatkumsuz?style=flat-square?color=%234CC61E&label=GitHub%20Followers%20"/></a>
+</p>
 
-<img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" width = "50" height = "50">
-<img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" width = "50" height = "50">
-<img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" width = "50" height = "50"> 
-<img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width = "50" height = "50"> 
-<img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width = "50" height = "50"> 
+##  Tech Stack
+
+<img src="https://img.shields.io/badge/-Kotlin-7c6fe1?style=flat&logo=kotlin&logoColor=white"> 
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white&labelColor=3DDC84"> 
+<img src="https://img.shields.io/badge/Android%20Studio-4285F4?style=flat&logo=Android%20Studio&logoColor=white&labelColor=4285F4">
+
  
  
